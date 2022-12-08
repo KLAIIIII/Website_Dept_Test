@@ -1,5 +1,5 @@
 .container {
-    font-family: 'Kaisei HarunoUmi', serif;
+  font-family: 'Playfair Display', serif;
 }
 
 #carouselExampleCaptions {
@@ -7,20 +7,29 @@
 }
 
 .section {
-    padding-top: 40px;
-    padding-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 20px;
     font-family: 'Sarabun', sans-serif;
 }
 
 .main-heading {
-    color: #C2B092;
-    font-size: 25px;
+    color: #1746A2;
+    font-size: 32px;
+}
+
+.info {
+  color: #E8E8E8;
+  
+}
+
+.text-orange {
+  color: #FF731D;
 }
 
 .underline {
     height: 4px;
     width: 10rem;
-    background-color:#CFC5A5;
+    background-color:#1746A2;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -30,12 +39,12 @@
 }
 
 .footer {
-    font-family: 'Sarabun', sans-serif;
+    /* font-family: 'Sarabun', sans-serif; */
 }
 
 .footer a {
     color: linen;
-    font-family: 'Sarabun', sans-serif;
+    /* font-family: 'Sarabun', sans-serif; */
 }
 
 .footer a:hover{
@@ -53,12 +62,12 @@
     color: inherit;
     background: none;
     cursor: pointer;
-    padding: 25px 80px;
+    padding: 10px 25px;
     display: inline-block;
     margin: 15px 30px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-weight: 700;
+    font-weight: 500;
     outline: none;
     position: relative;
     -webkit-transition: all 0.3s;
