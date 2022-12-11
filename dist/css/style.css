@@ -1,15 +1,27 @@
 .container {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+  font-family: 'Noto Serif Thai', serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 #carouselExampleCaptions {
-    font-family: 'Sarabun', sans-serif;
+  font-family: 'Noto Serif Thai', serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .section {
     padding-top: 5px;
     padding-bottom: 20px;
-    font-family: 'Sarabun', sans-serif;
+    font-family: 'Noto Serif Thai', serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav-item {
+  font-family: 'Noto Serif Thai', serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .main-heading {
